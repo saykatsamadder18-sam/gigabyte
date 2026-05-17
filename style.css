@@ -1,0 +1,28 @@
+
+.parent {
+    
+    display: flex;
+    gap: 100px; 
+}
+.childone {
+    background-color: aquamarine;
+}
+.childtwo{
+    background-color: blueviolet;
+} 
+
+.for-grid {
+    padding: 20px 40px;
+
+}
+.grid {
+    height: 300px;
+    background-color: rgb(255, 0, 149);
+    border-radius: 8px;
+    text-align-last: center;
+}
+.grid-items {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 30px;
+}
