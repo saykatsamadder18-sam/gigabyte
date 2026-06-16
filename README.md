@@ -1,2 +1,2 @@
-# gigabyte
+# Gigabyte
 fgjfjfjykcuyk
